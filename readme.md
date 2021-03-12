@@ -1,27 +1,23 @@
-<h1 align="center">@fwd/saas 🔐</h1>
+<h1 align="center">@fwd/blacklist ⚫️</h1>
 
-> An NPM package for bootstraping NODE SaaS applications.
+> An NPM that exposes a ExpressJS middleware (and other methods) for simple blocking of known bad guys.
 
 ## Install
 
 ```sh
-npm install fwd/saas
+npm install fwd/blacklist
 ```
 
 ## Usage
 
 ```js
 
-const database = require('@fwd/database')('local', {
-	filename: "database.json"
-})
+const app = require('expressjs')
+const blacklist = require('@fwd/blacklist')
 
-const saas = require('@fwd/saas')({
-	namespace: 'hello_world'
-	database: database,
-})
+app.use(blacklist.middleware)
 
-saas.start(80, __dirname)
+// Enjoy
 
 ```
 
