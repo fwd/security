@@ -1,6 +1,11 @@
+const _ = require('lodash')
 const known = require('./known.json')
 
-module.exports = {
+var blacklist = {
+
+	report: false,
+
+	known: known,
 
 	message: `You've been banned from using this service.`,
 
@@ -25,27 +30,29 @@ module.exports = {
 	    'boaform',
 	],
 
-
 	check(string) {
-		return new RegExp(this.keywords.join("|")).test(string.toLowerCase())
+		return this.keywords.find(a => string.includes(a))
 	},
 
 	lookup(ipAddress) {
 		return known.find(a => a.ipAddress === ipAddress)
 	},
 
-	known() {
-		return known
-	},
-
-	middleware(req, res, next) {
-		var ipAddress = req.headers['x-forwarded-for'] || req.connection.remoteAddress || req.socket.remoteAddress || (req.connection.socket ? req.connection.socket.remoteAddress : null);
-			ipAddress = ipAddress ? ipAddress.replace('::ffff:', '')
-		if ( this.check(req.originalUrl) || this.lookup(ipAddress) ) {
-			res.status(404).send(this.message)
-			return
-		}
-		next()
-	},
-
 }
+
+blacklist.middleware = (req, res, next) =>  {
+	var ipAddress = req.headers['x-forwarded-for'] || req.connection.remoteAddress || req.socket.remoteAddress || (req.connection.socket ? req.connection.socket.remoteAddress : null);
+		ipAddress = ipAddress ? ipAddress.replace('::ffff:', '') : ipAddress
+	if ( blacklist.check(req.originalUrl) || !ipAddress || blacklist.lookup(ipAddress) ) {
+		var known = blacklist.known
+			known.push({
+				offense: req.originalUrl.replace('/', ''),
+				ipAddress: ipAddress
+			})
+		res.status(404).send(blacklist.message)
+		return
+	}
+	next()
+}
+
+module.exports = blacklist
