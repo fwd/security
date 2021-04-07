@@ -1,11 +1,15 @@
+const fs = require('fs')
 const _ = require('lodash')
-const known = require('./known.json')
 
-var blacklist = {
+const blacklist = {
+
+	remember: true,
 
 	report: false,
 
-	known: known,
+	known: fs.readFileSync('./blacklist.txt').toString().split("\n"),
+
+	banned: [],
 
 	message: `You've been banned from using this service.`,
 
@@ -40,19 +44,25 @@ var blacklist = {
 
 }
 
-blacklist.middleware = (req, res, next) =>  {
+blacklist.firewall = (req, res, next) =>  {
+	
 	var ipAddress = req.headers['x-forwarded-for'] || req.connection.remoteAddress || req.socket.remoteAddress || (req.connection.socket ? req.connection.socket.remoteAddress : null);
 		ipAddress = ipAddress ? ipAddress.replace('::ffff:', '') : ipAddress
-	if ( blacklist.check(req.originalUrl) || !ipAddress || blacklist.lookup(ipAddress) ) {
-		var known = blacklist.known
-			known.push({
-				offense: req.originalUrl.replace('/', ''),
-				ipAddress: ipAddress
-			})
+	
+	if ( ipAddress && new RegExp(blacklist.known.join("|")).test(req.originalUrl) ) {
+		blacklist.banned.push({
+			offense: req.originalUrl.replace('/', ''),
+			ip: ipAddress
+		})
+	}
+
+	if ( !ipAddress || blacklist.banned.find(a => a.ip == ipAddress) ) {
 		res.status(404).send(blacklist.message)
 		return
 	}
+
 	next()
+
 }
 
 module.exports = blacklist
