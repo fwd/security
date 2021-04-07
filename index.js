@@ -7,6 +7,8 @@ const blacklist = {
 
 	report: false,
 
+	exclude: [],
+
 	known: fs.readFileSync('./blacklist.txt').toString().split("\n"),
 
 	banned: [],
@@ -49,7 +51,7 @@ blacklist.firewall = (req, res, next) =>  {
 	var ipAddress = req.headers['x-forwarded-for'] || req.connection.remoteAddress || req.socket.remoteAddress || (req.connection.socket ? req.connection.socket.remoteAddress : null);
 		ipAddress = ipAddress ? ipAddress.replace('::ffff:', '') : ipAddress
 	
-	if ( ipAddress && new RegExp(blacklist.known.join("|")).test(req.originalUrl) ) {
+	if ( ipAddress && new RegExp(blacklist.known.join("|")).test(req.originalUrl) && !(new RegExp(blacklist.exclude.join("|")).test(req.originalUrl)) ) {
 		blacklist.banned.push({
 			offense: req.originalUrl.replace('/', ''),
 			ip: ipAddress
