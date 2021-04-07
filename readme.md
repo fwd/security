@@ -5,19 +5,23 @@
 ## Install
 
 ```sh
-npm install fwd/blacklist
+npm install fwd/security
 ```
 
 ## Usage
 
 ```js
 
-const app = require('expressjs')
+const server = require('@fwd/server')
 const security = require('@fwd/security')
 
-app.use(security.firewall)
+server.use(security.firewall)
 
-// Enjoy
+server.get('/', (req, res) => {
+	res.send('Hello, World')
+})
+
+// Enjoy protection against vulnerabilities pings from the internet
 
 ```
 
