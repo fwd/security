@@ -1,7 +1,7 @@
 const fs = require('fs')
 const _ = require('lodash')
 
-const blacklist = {
+const security = {
 
 	remember: true,
 
@@ -9,7 +9,7 @@ const blacklist = {
 
 	exclude: [],
 
-	known: fs.readFileSync('./blacklist.txt').toString().split("\n"),
+	known: fs.readFileSync( __dirname + '/blacklist.txt').toString().split("\n"),
 
 	banned: [],
 
@@ -46,7 +46,7 @@ const blacklist = {
 
 }
 
-blacklist.firewall = (req, res, next) =>  {
+security.firewall = (req, res, next) =>  {
 	
 	var ipAddress = req.headers['x-forwarded-for'] || req.connection.remoteAddress || req.socket.remoteAddress || (req.connection.socket ? req.connection.socket.remoteAddress : null);
 		ipAddress = ipAddress ? ipAddress.replace('::ffff:', '') : ipAddress
@@ -67,4 +67,4 @@ blacklist.firewall = (req, res, next) =>  {
 
 }
 
-module.exports = blacklist
+module.exports = security
