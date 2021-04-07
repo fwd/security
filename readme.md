@@ -1,6 +1,6 @@
-<h1 align="center">ExpressJS Web Application Firewall</h1>
+<h1 align="center">NodeJS WAF</h1>
 
-> A rudimentary Web Application Firewall (WAF) for ExpressJS
+> A rudimentary Web Application Firewall (WAF) for ExpressJS.
 
 ## Install
 
