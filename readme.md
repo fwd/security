@@ -18,7 +18,7 @@ const security = require('@fwd/security')
 server.use(security.firewall)
 
 server.get('/', (req, res) => {
-	res.send('Hello, World')
+   res.send('Hello, World')
 })
 
 // Enjoy protection against vulnerabilities pings from the internet
