@@ -34,9 +34,9 @@ security.firewall = (req, res, next) =>  {
 		})
 	}
 
-	if ( !ipAddress || security.lookup(ipAddress) ) {
+	if ( !ipAddress || security.lookup(ipAddress) && (security.allow && !security.allow(req)) ) {
 
-		if (security.handler) {
+		if (security.handler ) {
 			req.offense = requestedUrl
 			req.ip = ipAddress
 			security.handler(req, res, next)
@@ -46,7 +46,7 @@ security.firewall = (req, res, next) =>  {
 		res.status(404).send(security.message)
 
 		return
-		
+
 	}
 
 	next()
