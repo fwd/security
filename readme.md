@@ -24,7 +24,7 @@ security.allow = (req) => {
    return false
 }
 
-server.use(security.firewall)
+app.use(security.firewall)
 
 app.get('/', function (req, res) {
   res.send('Hello World!')
