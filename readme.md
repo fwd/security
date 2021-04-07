@@ -29,7 +29,7 @@ server.get('/', (req, res) => {
    res.send('Hello, World')
 })
 
-// Enjoy protection against vulnerabilities pings from the internet
+// Enjoy protection against common vulnerability pings from the internet.
 
 ```
 
