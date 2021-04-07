@@ -12,8 +12,9 @@ npm install fwd/security
 
 ```js
 
-const server = require('@fwd/server')
 const security = require('@fwd/security')
+const express = require('express')
+const app = express()
 
 // optional overrides
 security.allow = (req) => {
@@ -25,9 +26,11 @@ security.allow = (req) => {
 
 server.use(security.firewall)
 
-server.get('/', (req, res) => {
-   res.send('Hello, World')
+app.get('/', function (req, res) {
+  res.send('Hello World!')
 })
+
+app.listen(3000)
 
 // Enjoy protection against common vulnerability pings from the internet.
 
