@@ -13,9 +13,9 @@ npm install fwd/blacklist
 ```js
 
 const app = require('expressjs')
-const blacklist = require('@fwd/blacklist')
+const security = require('@fwd/security')
 
-app.use(blacklist.middleware)
+app.use(security.firewall)
 
 // Enjoy
 
