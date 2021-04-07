@@ -1,6 +1,6 @@
-<h1 align="center">@fwd/blacklist ⚫️</h1>
+<h1 align="center">ExpressJS Web Application Firewall</h1>
 
-> An NPM that exposes a ExpressJS middleware (and other methods) for simple blocking of known bad guys.
+> A rudimentary Web Application Firewall (WAF) for ExpressJS
 
 ## Install
 
@@ -14,6 +14,14 @@ npm install fwd/security
 
 const server = require('@fwd/server')
 const security = require('@fwd/security')
+
+// optional overrides
+security.allow = (req) => {
+   if (req.user) {
+      return true
+   }
+   return false
+}
 
 server.use(security.firewall)
 
