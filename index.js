@@ -37,9 +37,9 @@ security.firewall = (req, res, next) =>  {
 
 	if ( !ipAddress || security.lookup(ipAddress) && (security.allow && !security.allow(req)) ) {
 
-		if (security.handler ) {
+		if (security.handler) {
 			req.offense = requestedUrl
-			req.ip = ipAddress
+			req.ipAddress = ipAddress
 			security.handler(req, res, next)
 			return
 		}
