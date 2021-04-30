@@ -54,8 +54,8 @@ security.firewall = (req, res, next) =>  {
 	if (security.headers !== false) {
 
 		var headers = {
-			'X-Frame-Options': 'DENY',
-			'X-Powered-By': 'Electricity',
+			'X-Frame-Options': 'sameorigin',
+			'X-Powered-By': 'electricity',
 			'X-Content-Type-Options': 'nosniff',
 			'X-Download-Options': 'noopen',
 		}
