@@ -55,9 +55,7 @@ security.firewall = (req, res, next) =>  {
 
 		var headers = {
 			'X-Frame-Options': 'sameorigin',
-			'X-Powered-By': 'electricity',
-			'X-Content-Type-Options': 'nosniff',
-			'X-Download-Options': 'noopen',
+			'X-Powered-By': 'electricity'
 		}
 		
 		for (var key of Object.keys(headers)) {
