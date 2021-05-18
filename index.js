@@ -51,19 +51,6 @@ security.firewall = (req, res, next) =>  {
 
 	}
 
-	if (security.headers !== false) {
-
-		var headers = {
-			'X-Frame-Options': 'sameorigin',
-			'X-Powered-By': 'electricity'
-		}
-		
-		for (var key of Object.keys(headers)) {
-			res.setHeader(key, security.headers[key] ? security.headers[key] : headers[key])
-		}
-
-	}
-
 	next()
 
 }
